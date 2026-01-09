@@ -1,6 +1,6 @@
 # Hey, I'm John
 
-I work at complex intersections - emerging tech and real-world systems, deep technical work and strategy, code and policy.
+I work at complex intersections — emerging tech and real-world systems, deep technical work and strategy, code, data and policy.
 
 Some highlights:
 - co-founded Toucan Protocol (carbon markets infrastructure, $4B+ volume)
