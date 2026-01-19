@@ -13,7 +13,7 @@ I'm currently building [Astral](https://astral.global) (decentralized geospatial
 
 ## Work
 
-**Toucan Protocol** — Co-founder. I designed protocol architecture, scaled the team, and built partnerships. Our infrastructure captured 50%+ of voluntary carbon market trading volume.
+**Toucan Protocol** — Co-founder. I led ecosystem growth, supported protocol architecture design, scaled the team, and built partnerships. Our infrastructure captured 50%+ of voluntary carbon market trading volume.
 
 **Ordnance Survey** — I launched the OS Data Hub, opening UK national mapping data under a £1B government licensing agreement.
 
